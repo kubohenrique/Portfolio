@@ -9,7 +9,7 @@ Sou formado em engenharia mecânica, me apaixonei pela área da ciencia de dados
 **Background :** Python e Machine Learning.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/henrique-kubo-9104b6209/)
+* [LinkedIn](https://www.linkedin.com/in/kubohenrique)
 * [Medium](https://medium.com/@henrique.kubo)
 
 
