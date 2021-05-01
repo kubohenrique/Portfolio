@@ -15,6 +15,7 @@ Sou formado em engenharia mecânica, me apaixonei pela área da ciencia de dados
 
 ## Projetos:
 
+* **Projeto de Previsão de vendas :** https://bit.ly/2QLhkgG
 * **Projeto para identificar padrão de adoção de animais, usando o Prophet :** https://bit.ly/2Qln0gI
 * **Projeto para agrupar músicas no Spotify usando o K-Mean :** https://bit.ly/3f9WwcF
 * **Projeto de classificação de roupas usando Deep Learning :** https://bit.ly/3c9DnWh
