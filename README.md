@@ -20,3 +20,8 @@ Sou formado em engenharia mecânica, me apaixonei pela área da ciencia de dados
 * **Projeto para agrupar músicas no Spotify usando o K-Mean :** https://bit.ly/3f9WwcF
 * **Projeto de classificação de roupas usando Deep Learning :** https://bit.ly/3c9DnWh
 * **Projeto de DataScience para Recursos humanos :** https://bit.ly/2QQcSNd
+* **Projeto de Detecção de fraude Nubank :** https://bit.ly/3lER44o
+* **Projeto de Vendas de vinho usando Prophet :** https://bit.ly/3j1zXYz
+* **Projeto de Classificação de saúde Fetal :** https://bit.ly/3lAFFCw
+* **Projeto de Previsão do custo de Seguro de Vida :** https://bit.ly/3iZj9kR
+* **Projeto de Previsão de Churn :** https://bit.ly/2YJOmlu
