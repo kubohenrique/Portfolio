@@ -6,7 +6,7 @@
 
 Sou formado em engenharia mecânica, me apaixonei pela área da ciencia de dados e estou sempre a procura de melhoria e conhecimento, ao longo do tempo venho construindo o meu portfolio para aprimorar minha visão de negócio e experiência em analisar dados.
 
-**Background :** Python e Machine Learning.
+**Background :** SQL, Python , Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/kubohenrique)
