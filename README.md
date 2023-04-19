@@ -4,7 +4,7 @@
 
 # Henrique Kubo
 
-Sou formado em engenharia mecânica, porém estou no processo de migrar para a carreira de ciência de dados. Estou sempre a procura de melhoria e conhecimento, ao longo do tempo venho construindo o meu portfólio para aprimorar minha visão de negócio e experiência em analisar dados.
+Sou formado em engenharia mecânica , porém migrei para a carreira de ciência de dados. Estou sempre a procura de melhoria e conhecimento, ao longo do tempo venho construindo o meu portfólio para aprimorar minha visão de negócio e experiência em analisar dados para poder garantir uma acurácia melhor.
 
 **Background :** SQL, Python , Machine Learning, Git, AWS, Estatística, Spark.
 
