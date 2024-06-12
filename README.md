@@ -30,11 +30,8 @@ Espero que goste dessa versão aprimorada!
 
 ## Projetos:
 
-* **Projeto de Previsão de vendas para uma rede de farmácias européia (Rossman) :** https://bit.ly/2QLhkgG
-* **Projeto para identificar padrão de adoção de animais, usando o Prophet :** https://bit.ly/2Qln0gI
-* **Projeto para agrupar músicas no Spotify usando o K-Mean :** https://bit.ly/3f9WwcF
-* **Projeto de classificação de roupas usando Deep Learning :** https://bit.ly/3c9DnWh
-* **Projeto de DataScience para Recursos humanos :** https://bit.ly/2QQcSNd
+* [Projeto de Previsão de vendas para uma rede de farmácias européia (Rossman)](https://bit.ly/2QLhkgG)
+* [Projeto de DataScience para Recursos humanos](https://bit.ly/2QQcSNd)
 * [Projeto de Detecção de fraude Nubank](https://bit.ly/3lER44o)
 * [Projeto de Previsão do custo de Seguro de Vida](https://fkmy.short.gy/jdqISe)
-* **Projeto de Previsão de Churn :** https://bit.ly/2YJOmlu
+* [Projeto de Previsão de Churn](https://github.com/kubohenrique/churn/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
