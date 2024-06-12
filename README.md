@@ -4,9 +4,24 @@
 
 # Henrique Kubo
 
-Sou formado em engenharia mecânica , porém migrei para a carreira de ciência de dados. Estou sempre a procura de melhoria e conhecimento, ao longo do tempo venho construindo o meu portfólio para aprimorar minha visão de negócio e experiência em analisar dados para poder garantir uma acurácia melhor.
+🚀 **Em constante evolução: Engenheiro Mecânico se transforma em Cientista de Dados** 🚀
 
-**Background :** SQL, Python , Machine Learning, Git, AWS, Estatística, Spark.
+Com uma formação sólida em Engenharia Mecânica, decidi explorar novos horizontes na carreira e mergulhar de cabeça no mundo da Ciência de Dados. Desde então, tenho dedicado meu tempo e energia para buscar constantemente aprimoramento e conhecimento.
+
+Minha jornada rumo à excelência envolve a construção contínua do meu portfólio, onde busco integrar minha sólida compreensão de negócios com habilidades avançadas em análise de dados. Ao longo do tempo, tenho trabalhado arduamente para desenvolver minha expertise em ferramentas e técnicas fundamentais, visando garantir resultados precisos e relevantes.
+
+**Meu Background Inclui:**
+- Proficiência em SQL, Python e ferramentas de Machine Learning, permitindo a manipulação e análise eficiente de dados.
+- Experiência comprovada em estatística e análise exploratória, fornecendo insights valiosos para orientar decisões estratégicas.
+- Conhecimento prático em Git para controle de versão de código e colaboração eficaz em projetos de equipe.
+- Exposição a plataformas como AWS para implementação e escalabilidade de soluções de dados.
+- Familiaridade com Spark para processamento de dados em larga escala, capacitando-me a lidar com conjuntos de dados complexos e de grande volume.
+
+Estou comprometido em alcançar novos patamares de excelência na Ciência de Dados e estou sempre pronto para enfrentar desafios empolgantes que ampliem meus horizontes e contribuam para meu crescimento profissional. Vamos juntos explorar novas fronteiras e transformar dados em insights poderosos!
+
+---
+
+Espero que goste dessa versão aprimorada!
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/kubohenrique)
