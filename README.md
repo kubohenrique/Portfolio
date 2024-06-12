@@ -38,5 +38,5 @@ Espero que goste dessa versão aprimorada!
 * **Projeto de Detecção de fraude Nubank :** https://bit.ly/3lER44o
 * **Projeto de Vendas de vinho usando Prophet :** https://bit.ly/3j1zXYz
 * **Projeto de Classificação de saúde Fetal :** https://bit.ly/3lAFFCw
-* **[Projeto de Previsão do custo de Seguro de Vida]**(https://fkmy.short.gy/jdqISe)
+* [Projeto de Previsão do custo de Seguro de Vida](https://fkmy.short.gy/jdqISe)
 * **Projeto de Previsão de Churn :** https://bit.ly/2YJOmlu
