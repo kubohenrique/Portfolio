@@ -26,7 +26,7 @@ I’m committed to reaching new heights of excellence in Data Science and am alw
 * [Sales Forecasting Project for a European Pharmacy Chain (Rossman)](https://bit.ly/2QLhkgG)
 * [Human Resources Data Science Project](https://bit.ly/2QQcSNd)
 * [Fraud Detection Project (Nubank)](https://bit.ly/3lER44o)
-* [Life Insurance Cost Prediction Project](https://fkmy.short.gy/jdqISe)
+* [Life Insurance Cost Prediction Project](https://github.com/kubohenrique/insurance_prediction/blob/main/predição_custo_seguro_vida.ipynb)
 * [Churn Prediction Project](https://github.com/kubohenrique/churn/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
 
 ---
