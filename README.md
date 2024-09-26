@@ -12,11 +12,11 @@ My journey towards excellence involves the ongoing development of my portfolio, 
 
 **My Background Includes:**
 
-	•	Proficiency in SQL, Python, and Machine Learning tools, enabling efficient data manipulation and analysis.
-	•	Proven experience in statistics and exploratory analysis, providing valuable insights to guide strategic decisions.
-	•	Practical knowledge of Git for version control and effective collaboration on team projects.
-	•	Exposure to platforms like AWS for deploying and scaling data solutions.
-	•	Familiarity with Spark for large-scale data processing, allowing me to handle complex, high-volume datasets.
+	*	Proficiency in SQL, Python, and Machine Learning tools, enabling efficient data manipulation and analysis.
+	*	Proven experience in statistics and exploratory analysis, providing valuable insights to guide strategic decisions.
+	*	Practical knowledge of Git for version control and effective collaboration on team projects.
+	*	Exposure to platforms like AWS for deploying and scaling data solutions.
+	*	Familiarity with Spark for large-scale data processing, allowing me to handle complex, high-volume datasets.
 
 I’m committed to reaching new heights of excellence in Data Science and am always ready to take on exciting challenges that expand my horizons and contribute to my professional growth. Let’s explore new frontiers together and transform data into powerful insights!
 
