@@ -4,24 +4,23 @@
 
 # Henrique Kubo
 
-🚀 **Em constante evolução: Engenheiro Mecânico se transforma em Cientista de Dados** 🚀
+🚀 **Constantly Evolving: From Mechanical Engineer to Data Scientist** 🚀
 
-Com uma formação sólida em Engenharia Mecânica, decidi explorar novos horizontes na carreira e mergulhar de cabeça no mundo da Ciência de Dados. Desde então, tenho dedicado meu tempo e energia para buscar constantemente aprimoramento e conhecimento.
+With a solid background in Mechanical Engineering, I decided to explore new horizons in my career and dive headfirst into the world of Data Science. Since then, I have dedicated my time and energy to continuously seeking improvement and knowledge.
 
-Minha jornada rumo à excelência envolve a construção contínua do meu portfólio, onde busco integrar minha sólida compreensão de negócios com habilidades avançadas em análise de dados. Ao longo do tempo, tenho trabalhado arduamente para desenvolver minha expertise em ferramentas e técnicas fundamentais, visando garantir resultados precisos e relevantes.
+My journey towards excellence involves the ongoing development of my portfolio, where I aim to integrate my strong business understanding with advanced data analysis skills. Over time, I’ve worked hard to develop my expertise in key tools and techniques, ensuring precise and relevant results.
 
-**Meu Background Inclui:**
-- Proficiência em SQL, Python e ferramentas de Machine Learning, permitindo a manipulação e análise eficiente de dados.
-- Experiência comprovada em estatística e análise exploratória, fornecendo insights valiosos para orientar decisões estratégicas.
-- Conhecimento prático em Git para controle de versão de código e colaboração eficaz em projetos de equipe.
-- Exposição a plataformas como AWS para implementação e escalabilidade de soluções de dados.
-- Familiaridade com Spark para processamento de dados em larga escala, capacitando-me a lidar com conjuntos de dados complexos e de grande volume.
+**My Background Includes:**
 
-Estou comprometido em alcançar novos patamares de excelência na Ciência de Dados e estou sempre pronto para enfrentar desafios empolgantes que ampliem meus horizontes e contribuam para meu crescimento profissional. Vamos juntos explorar novas fronteiras e transformar dados em insights poderosos!
+	•	Proficiency in SQL, Python, and Machine Learning tools, enabling efficient data manipulation and analysis.
+	•	Proven experience in statistics and exploratory analysis, providing valuable insights to guide strategic decisions.
+	•	Practical knowledge of Git for version control and effective collaboration on team projects.
+	•	Exposure to platforms like AWS for deploying and scaling data solutions.
+	•	Familiarity with Spark for large-scale data processing, allowing me to handle complex, high-volume datasets.
+
+I’m committed to reaching new heights of excellence in Data Science and am always ready to take on exciting challenges that expand my horizons and contribute to my professional growth. Let’s explore new frontiers together and transform data into powerful insights!
 
 ---
-
-Espero que goste dessa versão aprimorada!
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/kubohenrique)
@@ -30,8 +29,8 @@ Espero que goste dessa versão aprimorada!
 
 ## Projetos:
 
-* [Projeto de Previsão de vendas para uma rede de farmácias européia (Rossman)](https://bit.ly/2QLhkgG)
-* [Projeto de DataScience para Recursos humanos](https://bit.ly/2QQcSNd)
-* [Projeto de Detecção de fraude Nubank](https://bit.ly/3lER44o)
-* [Projeto de Previsão do custo de Seguro de Vida](https://fkmy.short.gy/jdqISe)
-* [Projeto de Previsão de Churn](https://github.com/kubohenrique/churn/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
+* [Sales Forecasting Project for a European Pharmacy Chain (Rossman)](https://bit.ly/2QLhkgG)
+* [Human Resources Data Science Project](https://bit.ly/2QQcSNd)
+* [Fraud Detection Project (Nubank)](https://bit.ly/3lER44o)
+* [Life Insurance Cost Prediction Project](https://fkmy.short.gy/jdqISe)
+* [Churn Prediction Project](https://github.com/kubohenrique/churn/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
