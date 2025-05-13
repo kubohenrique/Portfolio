@@ -27,7 +27,7 @@ I’m committed to reaching new heights of excellence in Data Science and am alw
 * [Human Resources Data Science Project](https://bit.ly/2QQcSNd)
 * [Fraud Detection Project (Nubank)](https://bit.ly/3lER44o)
 * [Life Insurance Cost Prediction Project](https://github.com/kubohenrique/insurance_prediction/blob/main/predição_custo_seguro_vida.ipynb)
-* [Churn Prediction Project](https://github.com/kubohenrique/churn/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
+* [Churn Prediction Project](https://colab.research.google.com/drive/1_94Og5JOjPkuzsKM_SGHFadMNFboEbYl?usp=sharing)
 * [COVID PANORAME IN BRAZIL](https://github.com/kubohenrique/covid/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
 
 ---
